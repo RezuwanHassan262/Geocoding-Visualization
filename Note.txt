@@ -1,0 +1,3 @@
+Note:- If you’re using google colab like me, Delete the old “where.js” file and download the newly produced javascript file where.js after executing the geodump.py code and now open the where.html file and you will see the new place you’ve added in the where.data file.
+
+We did this because the html file uses the javascript file to visualize the locations but if the old javascript file is still there, Then it will only visualize the places the old file contained and not the new places that you’ve added in the where.data file.
